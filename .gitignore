@@ -70,3 +70,6 @@ app/crashlytics.properties
 # fabric .sublime-workspace docs.css dist
 fabric.properties
 
+#kit-libs
+*kit-libs/
+
